@@ -30,13 +30,19 @@ view
 ## Screenshots
 
 ### Tela Principal
-![Tela Principal](screenshots/tela-principal.png)
+![Tela Principal](screenshots/TelaPrincipalBiblioteca.png)
+
+### Atualizar Livro
+![Atualizar Livro](screenshots/TelaAtualizarLivroBiblioteca.png)
+
+### Deletar Livro
+![Deletar Livro](screenshots/TelaDeletarLivroBiblioteca.png)
 
 ### Lista de Livros
-![Lista de Livros](screenshots/listar-livros.png)
+![Lista de Livros](screenshots/TelaListarLivroBiblioteca.png)
 
-### Atualização de Livros
-![Atualização](screenshots/atualizar-livro.png)
+### Cadastro de Livros
+![Cadastro de Livros](screenshots/TelaCadastrarLivroBiblioteca.png)
 
 ## Autor
 
